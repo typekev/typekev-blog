@@ -11,6 +11,7 @@ for file in os.listdir("./posts"):
         date_published = metadata["published-on"].strftime("%b %d, %Y")
         obj = {**metadata, "published-on": date_published}
         content = post.content
+        
         with open('./posts/json/' + file + ".json", 'w') as file_descriptor:
                 json.dump({**obj, "content": content}, file_descriptor)
 

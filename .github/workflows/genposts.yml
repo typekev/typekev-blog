@@ -19,3 +19,14 @@ jobs:
         pip install -r requirements.txt
     - name: Generate posts
       run: python genposts.py
+      
+    - uses: stefanzweifel/git-auto-commit-action@v2.5.0
+      with:
+        commit_message: Generate new post endpoints
+        branch: ${{ github.head_ref }}
+
+        # Optional git params
+        commit_options: '--no-verify --signoff'
+
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -24,9 +24,10 @@ jobs:
       with:
         commit_message: Generate new post endpoints
         branch: master
-
-        # Optional git params
-        commit_options: '--no-verify --signoff'
-
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}

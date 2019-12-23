@@ -17,7 +17,12 @@ for file in os.listdir(POST_DIR):
         metadata = post.metadata
         date_published = metadata["published"].strftime("%b %d, %Y")
         timestamp = datetime.timestamp(metadata["published"])
-        obj = {**metadata, "published": date_published, "timestamp": int(timestamp)}
+        obj = {
+            **metadata,
+            "published": date_published,
+            "timestamp": int(timestamp),
+            "location": file + ".json",
+        }
         content = post.content
 
         with open(POST_JSON_DIR + file + ".json", "w") as file_descriptor:

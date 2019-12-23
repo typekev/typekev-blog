@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Reinforcement Learning for smarter trading
-published-on: 2019-11-01T14:42:00+00:00
+published: 2019-11-01T14:42:00+00:00
 author: Kevin (typekev) Gonzalez
 tags: artificial intelligence, machine learning, reinforcement learning, trading
 ---

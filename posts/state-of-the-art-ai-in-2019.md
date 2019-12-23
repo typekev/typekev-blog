@@ -1,7 +1,7 @@
 ---
 layout: post
 title: State of the art AI in 2019
-published-on: 2019-10-18T13:30:34+00:00
+published: 2019-10-18T13:30:34+00:00
 author: Kevin (typekev) Gonzalez
 tags: artificial intelligence, machine learning
 ---

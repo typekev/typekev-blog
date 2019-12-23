@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Will artificial intelligence take my job?
-published-on: 2019-10-25T12:38:00+00:00
+published: 2019-10-25T12:38:00+00:00
 author: Kevin (typekev) Gonzalez
 tags: artificial intelligence, machine learning, programming, work
 ---

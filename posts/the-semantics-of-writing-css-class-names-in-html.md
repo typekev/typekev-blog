@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The semantics of writing CSS class names in HTML
-published-on: 2018-05-11T16:26:39+00:00
+published: 2018-05-11T16:26:39+00:00
 author: Kevin (typekev) Gonzalez
 tags: programming, classnames, css, html, naming, react, styled-components
 ---

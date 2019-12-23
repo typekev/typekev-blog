@@ -1,7 +1,7 @@
 ---
 layout: post
 title: To destructure or not to destructure
-published-on: 2018-01-10T12:00:32+00:00
+published: 2018-01-10T12:00:32+00:00
 author: Kevin (typekev) Gonzalez
 tags: programming, work, javascript, react
 ---

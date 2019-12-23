@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Artificial Neural Networks a modern invention?
-published-on: 2019-11-08T08:00:00+00:00
+published: 2019-11-08T08:00:00+00:00
 author: Kevin (typekev) Gonzalez
 tags: artificial intelligence, machine learning, neural networks
 ---

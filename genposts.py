@@ -16,5 +16,5 @@ for file in os.listdir("./posts"):
 
         dict = {**dict, file: {**metadata, "published-on": date_published}}
 
-with open('./posts/json/posts.json', 'w') as file_descriptor:
+with open('./posts/json/index.json', 'w') as file_descriptor:
          json.dump(dict, file_descriptor)

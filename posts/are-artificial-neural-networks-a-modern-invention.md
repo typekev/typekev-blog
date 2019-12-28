@@ -16,4 +16,4 @@ I’m sure this will surprise quite a few people outside of the AI field (but ho
 
 I encourage you to check out Sebastian’s video; ‘The Origins of Neural Networks’, embedded below.
 
-[![The Origins of Neural Networks](https://img.youtube.com/vi/Suevq-kZdIw/0.jpg)](https://www.youtube.com/watch?v=Suevq-kZdIw){target="\_blank"}
+[![The Origins of Neural Networks](https://img.youtube.com/vi/Suevq-kZdIw/0.jpg)](https://www.youtube.com/watch?v=Suevq-kZdIw)

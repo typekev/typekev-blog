@@ -14,7 +14,7 @@ According to H. James Wilson, Managing Director, Accenture Research, a team of r
 
 AI isn’t coming to take over your job, but to enhance it. With that in mind then, how will AI enhance YOUR job? and just what new kinds of jobs will AI create?
 
-[![What new kinds of jobs will AI create? H. James Wilson, Managing Director, Accenture Research](https://img.youtube.com/vi/OrkNc7_Wmb8/0.jpg)](https://www.youtube.com/watch?v=OrkNc7_Wmb8){target="\_blank"}
+[![What new kinds of jobs will AI create? H. James Wilson, Managing Director, Accenture Research](https://img.youtube.com/vi/OrkNc7_Wmb8/0.jpg)](https://www.youtube.com/watch?v=OrkNc7_Wmb8)
 
 But – **_some can be replaced, right?_**
 

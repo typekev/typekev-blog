@@ -18,4 +18,4 @@ So I wanted to share this interesting video offering a top-level overview of Art
 
 It gave me some new talking points that I will use to draw attention to advancements that are important to me, and I hope it can do the same for you.
 
-[![AI/AGI - state of the art in 2019](https://img.youtube.com/vi/ZusjVvxEinw/0.jpg)](https://www.youtube.com/watch?v=ZusjVvxEinw)
+[![AI/AGI - state of the art in 2019](https://img.youtube.com/vi/ZusjVvxEinw/0.jpg)](https://www.youtube.com/watch?v=ZusjVvxEinw){target="\_blank"}
